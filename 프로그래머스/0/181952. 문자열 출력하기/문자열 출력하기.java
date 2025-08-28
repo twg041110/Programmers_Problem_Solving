@@ -6,6 +6,7 @@ public class Solution {
         String a = sc.next();
         
         System.out.print(a);
+        //문자를 출력해주는 코드
         sc.close();
     }
 }
